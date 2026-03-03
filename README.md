@@ -6,7 +6,7 @@
 
 ---
 
-## 🔬 About Me
+##  About Me
 
 I build end-to-end machine learning systems focused on solving real-world business problems. My expertise includes classification models, recommendation systems, and applied AI solutions.
 
@@ -14,7 +14,7 @@ I enjoy working with structured datasets, performing feature engineering, evalua
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 - Python, Pandas, NumPy
 - Scikit-learn, XGBoost
@@ -24,7 +24,7 @@ I enjoy working with structured datasets, performing feature engineering, evalua
 
 ---
 
-## 📌 Highlight Projects
+##  Highlight Projects
 
 🔹 [[Credit Risk Prediction Model](link) ](https://github.com/shree0156/Credit_Risk_Prediction_Model) 
 🔹 [[SmartReads – Recommendation System](link) ](https://github.com/shree0156/SmartReads) 
@@ -33,7 +33,7 @@ I enjoy working with structured datasets, performing feature engineering, evalua
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 LinkedIn: www.linkedin.com/in/shreeja-maiya-574537200  
 GitHub: github.com/shree0156
