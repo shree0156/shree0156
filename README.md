@@ -13,7 +13,7 @@ I enjoy building things with data — exploring ideas, experimenting with models
 My projects span classification, clustering, recommendation systems, and computer vision. 
 I focus on understanding the full pipeline - from data preprocessing and feature engineering to model evaluation and deployment. 
 
-This space reflects my journey in applied Machine Learning — learning continuously, building consistently, and improving with every project.
+This space reflects my journey in applied Machine Learning - learning continuously, building consistently, and improving with every project.
 
 ### Welcome!
 ---
