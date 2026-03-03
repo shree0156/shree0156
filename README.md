@@ -10,7 +10,7 @@
 
 I specialize in building end-to-end machine learning solutions that solve real-world business problems. My experience spans classification modeling, customer segmentation, and recommendation systems, with a strong focus on structured data analysis and predictive modeling.
 
-I work across the complete ML pipeline — data preprocessing, feature engineering, model development, evaluation (ROC-AUC, Precision-Recall), and deployment using Streamlit.
+I work across the complete ML pipeline: data preprocessing, feature engineering, model development, evaluation (ROC-AUC, Precision-Recall), and deployment using Streamlit.
 
 ---
 
