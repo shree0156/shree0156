@@ -8,13 +8,12 @@
 
 ##  About Me  
 
-I enjoy turning messy datasets into meaningful insights and building machine learning models that actually solve problems.
+I enjoy building things with data — exploring ideas, experimenting with models, and solving real-world problems step by step.
 
-Most of my work revolves around structured data - from predicting loan defaults and segmenting customers to building recommendation systems. I like understanding *why* a model works, not just making it run.
+My projects span classification, clustering, recommendation systems, and computer vision. 
+I focus on understanding the full pipeline - from data preprocessing and feature engineering to model evaluation and deployment.
 
-You’ll find projects here covering classification, clustering, recommendation systems, and some computer vision experiments - all built while learning, experimenting, and improving step by step.
-
-### If you're here to explore code, learn from projects, or just curious - Welcome! 
+### This space reflects my journey in applied Machine Learning - learning continuously, building consistently, and improving with every project. Welcome! 
 ---
 
 ##  Technical Skills  
