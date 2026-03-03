@@ -8,10 +8,13 @@
 
 ##  About Me  
 
-I specialize in building end-to-end machine learning solutions that solve real-world business problems. My experience spans classification modeling, customer segmentation, and recommendation systems, with a strong focus on structured data analysis and predictive modeling.
+I enjoy turning messy datasets into meaningful insights and building machine learning models that actually solve problems.
 
-I work across the complete ML pipeline: data preprocessing, feature engineering, model development, evaluation (ROC-AUC, Precision-Recall), and deployment using Streamlit.
+Most of my work revolves around structured data - from predicting loan defaults and segmenting customers to building recommendation systems. I like understanding *why* a model works, not just making it run.
 
+You’ll find projects here covering classification, clustering, recommendation systems, and some computer vision experiments - all built while learning, experimenting, and improving step by step.
+
+If you're here to explore code, learn from projects, or just curious — welcome 😊  
 ---
 
 ##  Technical Skills  
