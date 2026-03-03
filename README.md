@@ -14,7 +14,7 @@ Most of my work revolves around structured data - from predicting loan defaults 
 
 You’ll find projects here covering classification, clustering, recommendation systems, and some computer vision experiments - all built while learning, experimenting, and improving step by step.
 
-If you're here to explore code, learn from projects, or just curious - Welcome! 
+### If you're here to explore code, learn from projects, or just curious - Welcome! 
 ---
 
 ##  Technical Skills  
