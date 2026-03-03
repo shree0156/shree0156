@@ -27,8 +27,11 @@ I enjoy working with structured datasets, performing feature engineering, evalua
 ##  Highlight Projects
 
 🔹 [[Credit Risk Prediction Model](link) ](https://github.com/shree0156/Credit_Risk_Prediction_Model) 
+
 🔹 [[SmartReads – Recommendation System](link) ](https://github.com/shree0156/SmartReads) 
+
 🔹 [[Object Detection & Tracking](link)  ](https://github.com/shree0156/Object_detection_tracking)
+
 🔹 Upcoming...
 
 ---
