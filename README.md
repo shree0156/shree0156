@@ -1,42 +1,45 @@
-# Hi, I'm Shreeja 👋
+# Hi, I'm Shreeja 👋  
 
 🎯 Data Scientist | Machine Learning & Predictive Modeling  
 🎓 MCA in Artificial Intelligence  
-💼 2.5+ years IT experience at Cognizant  
+💼 2.5+ years of industry experience at Cognizant  
 
 ---
 
-##  About Me
+##  About Me  
 
-I build end-to-end machine learning systems focused on solving real-world business problems. My expertise includes classification models, recommendation systems, and applied AI solutions.
+I specialize in building end-to-end machine learning solutions that solve real-world business problems. My experience spans classification modeling, customer segmentation, and recommendation systems, with a strong focus on structured data analysis and predictive modeling.
 
-I enjoy working with structured datasets, performing feature engineering, evaluating models using ROC-AUC and Precision-Recall, and deploying ML applications using Streamlit.
-
----
-
-##  Technical Skills
-
-- Python, Pandas, NumPy
-- Scikit-learn, XGBoost
-- SQL
-- Streamlit
-- Machine Learning & Predictive Modeling
+I work across the complete ML pipeline — data preprocessing, feature engineering, model development, evaluation (ROC-AUC, Precision-Recall), and deployment using Streamlit.
 
 ---
 
-##  Highlight Projects
+##  Technical Skills  
 
-🔹 [[Credit Risk Prediction Model](link) ](https://github.com/shree0156/Credit_Risk_Prediction_Model) 
-
-🔹 [[SmartReads – Recommendation System](link) ](https://github.com/shree0156/SmartReads) 
-
-🔹 [[Object Detection & Tracking](link)  ](https://github.com/shree0156/Object_detection_tracking)
-
-🔹 Upcoming...
+- **Programming:** Python  
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, XGBoost  
+- **Data & Modeling:** Machine Learning, Predictive Modeling, Feature Engineering  
+- **Deployment:** Streamlit  
+- **Database:** SQL  
 
 ---
 
-##  Connect With Me
+##  Highlight Projects  
 
-LinkedIn: www.linkedin.com/in/shreeja-maiya-574537200  
-GitHub: github.com/shree0156
+🔹 [Credit Risk Prediction Model](https://github.com/shree0156/Credit_Risk_Prediction_Model)  
+Loan default prediction using XGBoost with class imbalance handling and Streamlit deployment.
+
+🔹 [Customer Segmentation – Credit Card Users](https://github.com/shree0156/Segmenting_Credit_Card_Users)  
+Applied K-Means clustering and PCA for behavioral segmentation analysis.
+
+🔹 [SmartReads – Hybrid Recommendation System](https://github.com/shree0156/SmartReads)  
+Content-based and collaborative filtering system for personalized book recommendations.
+
+🔹 [Object Detection & Tracking](https://github.com/shree0156/Object_detection_tracking)  
+Real-time object detection using YOLOv8 integrated with SORT tracking algorithm.
+
+---
+
+##  Connect With Me  
+ LinkedIn: www.linkedin.com/in/shreeja-maiya-574537200  
+ GitHub: github.com/shree0156  
