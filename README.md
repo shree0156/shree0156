@@ -1,6 +1,6 @@
 # Hi, I'm Shreeja  
 
-Data Scientist | Machine Learning & Predictive Modeling  
+Data Science | Machine Learning | Computer Vision | NLP | AI 
 MCA in Artificial Intelligence  
 2.5+ years of industry experience  
 
