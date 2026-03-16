@@ -1,8 +1,8 @@
-# Hi, I'm Shreeja 👋  
+# Hi, I'm Shreeja  
 
-🎯 Data Scientist | Machine Learning & Predictive Modeling  
-🎓 MCA in Artificial Intelligence  
-💼 2.5+ years of industry experience at Cognizant  
+Data Scientist | Machine Learning & Predictive Modeling  
+MCA in Artificial Intelligence  
+2.5+ years of industry experience  
 
 ---
 
