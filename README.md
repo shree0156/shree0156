@@ -44,4 +44,5 @@ Real-time object detection using YOLOv8 integrated with SORT tracking algorithm.
 ---
 
 ##  Connect With Me  
- LinkedIn: www.linkedin.com/in/shreeja-maiya-574537200  
+ LinkedIn: www.linkedin.com/in/shreeja-maiya-574537200 
+ E-mail: shreejamaiya0156@gmail.com
