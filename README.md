@@ -1,6 +1,7 @@
 # Hi, I'm Shreeja  
 
 AI | Machine Learning | Data Science | Computer Vision | NLP
+
 MCA in Artificial Intelligence  
 2.5+ years of industry experience  
 
