@@ -1,20 +1,18 @@
 # Hi, I'm Shreeja  
 
-Data Science | Machine Learning | Computer Vision | NLP | AI 
+AI | Machine Learning | Data Science | Computer Vision | NLP
 MCA in Artificial Intelligence  
 2.5+ years of industry experience  
 
 ---
 
 ##  About Me  
+If you're here, you're probably exploring my work , Welcome 😊
 
-I enjoy building things with data - exploring ideas, experimenting with models, and solving real-world problems step by step.
+I like working with data in different forms - whether it's building ML models, exploring patterns, or experimenting with computer vision.
+Rather than sticking to one niche, I enjoy learning across areas and figuring out what works best for each problem.
 
-My projects span classification, clustering, recommendation systems, and computer vision. 
-I focus on understanding the full pipeline - from data preprocessing and feature engineering to model evaluation and deployment. 
-
-This space reflects my journey in applied Machine Learning - learning continuously, building consistently, and improving with every project.
-
+This space is a collection of things I’ve built while exploring Machine Learning, Data Science, and Computer Vision - learning, experimenting, and improving along the way.
 ---
 
 ##  Technical Skills  
