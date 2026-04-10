@@ -14,6 +14,7 @@ I like working with data in different forms - whether it's building ML models, e
 Rather than sticking to one niche, I enjoy learning across areas and figuring out what works best for each problem.
 
 This space is a collection of things I’ve built while exploring Machine Learning, Data Science, and Computer Vision - learning, experimenting, and improving along the way.
+
 ---
 
 ##  Technical Skills  
