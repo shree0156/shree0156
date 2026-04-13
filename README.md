@@ -32,7 +32,7 @@ This space is a collection of things I’ve built while exploring Machine Learni
 🔹 [Credit Risk Prediction Model](https://github.com/shree0156/Credit_Risk_Prediction_Model)  
 Loan default prediction using XGBoost with class imbalance handling and Streamlit deployment.
 
-🔹 [AI-Resume-Analyzer-RAG](https://github.com/shree0156/AI-Resume-Analyzer-RAG))  
+🔹 [AI-Resume-Analyzer-RAG](https://github.com/shree0156/AI-Resume-Analyzer-RAG)  
 RAG-based AI Resume Analyzer that matches resumes with job descriptions, identifies missing skills, and generates actionable insights using LLMs and vector search.
 
 🔹 [SmartReads – Hybrid Recommendation System](https://github.com/shree0156/SmartReads)  
