@@ -32,8 +32,8 @@ This space is a collection of things I’ve built while exploring Machine Learni
 🔹 [Credit Risk Prediction Model](https://github.com/shree0156/Credit_Risk_Prediction_Model)  
 Loan default prediction using XGBoost with class imbalance handling and Streamlit deployment.
 
-🔹 [Customer Segmentation – Credit Card Users](https://github.com/shree0156/Segmenting_Credit_Card_Users)  
-Applied K-Means clustering and PCA for behavioral segmentation analysis.
+🔹 [AI-Resume-Analyzer-RAG](https://github.com/shree0156/AI-Resume-Analyzer-RAG))  
+RAG-based AI Resume Analyzer that matches resumes with job descriptions, identifies missing skills, and generates actionable insights using LLMs and vector search.
 
 🔹 [SmartReads – Hybrid Recommendation System](https://github.com/shree0156/SmartReads)  
 Content-based and collaborative filtering system for personalized book recommendations.
